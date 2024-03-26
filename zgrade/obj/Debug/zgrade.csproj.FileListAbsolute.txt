@@ -1,0 +1,10 @@
+C:\Users\Ucenik\source\repos\zgrade\zgrade\bin\Debug\zgrade.exe.config
+C:\Users\Ucenik\source\repos\zgrade\zgrade\bin\Debug\zgrade.exe
+C:\Users\Ucenik\source\repos\zgrade\zgrade\bin\Debug\zgrade.pdb
+C:\Users\Ucenik\source\repos\zgrade\zgrade\obj\Debug\zgrade.csproj.AssemblyReference.cache
+C:\Users\Ucenik\source\repos\zgrade\zgrade\obj\Debug\zgrade.Form1.resources
+C:\Users\Ucenik\source\repos\zgrade\zgrade\obj\Debug\zgrade.Properties.Resources.resources
+C:\Users\Ucenik\source\repos\zgrade\zgrade\obj\Debug\zgrade.csproj.GenerateResource.cache
+C:\Users\Ucenik\source\repos\zgrade\zgrade\obj\Debug\zgrade.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\source\repos\zgrade\zgrade\obj\Debug\zgrade.exe
+C:\Users\Ucenik\source\repos\zgrade\zgrade\obj\Debug\zgrade.pdb
